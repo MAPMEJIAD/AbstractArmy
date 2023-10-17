@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNFCCLqgunxH/SGno3tQxzJ+Q3KgNUPX0gabRsZcX0oNnMYusNsI/hbeKE+diMCxfLxIniD4vWHlKYLet55a/Q==",
+  "success": true,
+  "projectFilePath": "D:\\АлтГУ\\Сессия\\АПС\\Lab1\\Practic\\Practic\\Practic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antisleep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Antisleep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Antisleep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Antisleep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
